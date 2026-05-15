@@ -1,0 +1,97 @@
+# Gradle files
+.gradle
+build/
+.gradletasknamecache
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+
+# Android Studio generated files and folders
+.idea/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/gradle.xml
+.idea/**/assetWizardSettings.xml
+.idea/**/dictionaries
+.idea/**/libraries
+.idea/shelf
+
+# Android Profiling
+captures/
+.externalNativeBuild
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Emulator files
+.emulator_console_auth_token
+
+# Firebase
+google-services.json
+
+# Sensitive files
+*.keystore
+*.jks
+keystore.properties
+
+# Gradle wrapper
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# IntelliJ
+*.iml
+*.iws
+*.ipr
+
+# Files built by gradle
+*.apk
+*.ap_
+*.dex
+
+# Local environment
+.env
+.env.local
+
+# node modules (if using any JavaScript/Node tools)
+node_modules/
+
+# yarn
+yarn-error.log
+
+# OS specific files
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
+*~
